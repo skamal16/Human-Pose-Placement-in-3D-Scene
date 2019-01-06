@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PosePlacement", "PosePlacement\PosePlacement.pyproj", "{97FC126E-D919-4F4F-9B1D-E7985B1C87C8}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Playground", "..\Playground\Playground\Playground.pyproj", "{F2D9F469-92A9-45A5-A689-C6741B142F13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97FC126E-D919-4F4F-9B1D-E7985B1C87C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97FC126E-D919-4F4F-9B1D-E7985B1C87C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2D9F469-92A9-45A5-A689-C6741B142F13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2D9F469-92A9-45A5-A689-C6741B142F13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6AFF04F6-6AD0-4531-B044-0D4A647F623E}
+	EndGlobalSection
+EndGlobal
